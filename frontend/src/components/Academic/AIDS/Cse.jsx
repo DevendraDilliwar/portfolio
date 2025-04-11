@@ -220,7 +220,7 @@ export default function ModernDepartmentPage() {
           </div>
 
           {/* Content area */}
-          <div className="p-6 md:p-8 lg:p-10">
+          {/* <div className="p-6 md:p-8 lg:p-10">
             <div className="flex items-center mb-6">
               <div className="p-3 bg-indigo-100 rounded-lg mr-4 shadow-sm">
                 <span className="block w-6 h-6">
@@ -241,7 +241,7 @@ export default function ModernDepartmentPage() {
                 tabContent[activeTab].content
               )}
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
